@@ -2,7 +2,7 @@
 
 I have got 3 tasks from Bharat Intern during my 1 month internship.
 
-1.SMS Classifier :
+1. SMS Classifier :
 Develop a text classification model to classify SMS as either spam or non-spam using data science techniques in Python.
 
 2. Titanic Classification :
